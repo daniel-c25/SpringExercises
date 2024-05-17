@@ -1,0 +1,7 @@
+spring:
+  jpa:
+    hibernate:
+      ddl-auto: create
+    database: mysql
+  datasource:
+    url: jdbc:mysql://root:1234@localhost:3306/mystuff
