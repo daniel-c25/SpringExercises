@@ -1,0 +1,5 @@
+server:
+  port: 4000
+authCode: xyz456
+devName: daniel
+homo: true
